@@ -1,0 +1,7 @@
+{
+  "name": "Besto",
+  "description": "A voice-powered productivity assistant to help you intelligently organize tasks, notes, and events.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
